@@ -1,0 +1,10 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS variables (optional) */
+:root {
+  --background: #0f172a;
+  /* Dark blue background */
+}
